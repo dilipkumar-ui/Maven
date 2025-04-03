@@ -42,13 +42,13 @@
 </scm>
 <distributionManagement>
 <repository>
-<id>package</id>
+<id>Package</id>
 <url>
 http://13.200.250.170:8081/repository/Package/
 </url>
 </repository>
 <snapshotRepository>	
-<id>snapshots</id>
+<id>Snapshot</id>
 <url>
 http://13.200.250.170:8081/repository/Snapshot/
 </url>
